@@ -1,5 +1,5 @@
 <pbuild>
   <preset name="openSUSE" default>
-    <config>sl15.3</config>
+    <config>sl15.5</config>
   </preset>
 </pbuild>

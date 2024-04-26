@@ -2,7 +2,7 @@
 #!BuildTag: my_container
 # use the repositories defined in base image and the local build packages by pbuild
 #!UseOBSRepositories
-FROM opensuse/leap:15.3
+FROM opensuse/leap:15.5
 
 #USER wwwrun
 #WORKDIR /srv/www

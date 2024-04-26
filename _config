@@ -1,4 +1,4 @@
-Prefer: geckito-release
+Prefer: geckito-release iputils
 
 BuildEngine: podman
 

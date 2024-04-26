@@ -1,5 +1,0 @@
-<pbuild>
-  <preset name="default">
-    <config>sl15.3</config>
-  </preset>
-</pbuild>
